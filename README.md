@@ -1,31 +1,38 @@
-# Hi there! 🖐🏽 <br><br> I'm Cândido Miranda! 👨🏽‍💻
+# Hi there, I'm Cândido Miranda 👋
 
-## Contacts:<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candidogfbmiranda/)<a href = "mailto:candidoguilhermefbm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 🛡️ Cybersecurity Enthusiast | Aspiring Security Analyst (CJCA)
 
-<p align="center">I am fascinated to solve problems using tech. <br>💻<br>I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack entry-level developer</strong> focused on web development.</p>&nbsp;
+I am a dedicated cybersecurity learner with a strong focus on practical exploitation and defensive analysis. Currently, I'm deep-diving into the **Hack The Box** ecosystem, balancing technical challenges with consistent academic growth.
 
-[![Candido Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidoMiranda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoMiranda&theme=radical&hide=c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Hack The Box Journey
+* **Rank:** Top #7309 (Season 10)
+* **Consistency:** 🔥 41-Week Weekly Streak on HTB Academy
+* **Certifications in Progress:** HTB Certified Junior Cybersecurity Analyst (**CJCA**) - [██████████░░] 80%+
 
-## My Skills
-#### Main Stack:
-<div style="display: inline_block">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-     <img align="center" alt="Python" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+#### 💻 Technical Prowess (HTB Labs)
+I have successfully compromised **20+ machines**, maintaining a versatile skillset across different operating systems:
+* **Active Targets:** WingData, Facts, Conversor, Expressway.
+* **Classic Targets (Retired):** Cap, Keeper, Support (Windows), Return (Windows), Bashed, Blue, Lame, and more.
 
-</div>
+#### 🔍 Blue Team & DFIR (Sherlocks)
+Beyond offensive security, I actively practice defensive tactics through HTB Sherlocks:
+* **DFIR:** Brutus, BFT
+* **Threat Intelligence:** UFO-1
+* **SOC Operations:** Noxious
 
-#### Databases:
-<div style="display: inline_block">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+---
 
-</div>
+### 🛠️ Tech Stack & Tools
+* **OS:** Linux (Kali, Parrot), Windows Server
+* **Offensive:** Nmap, Metasploit, Burp Suite, Hashcat, BloodHound
+* **Defensive:** Wireshark, Volatility, Event Viewer Analysis, Splunk
 
+---
+
+### 📫 How to reach me:
+* Connect with me on [LinkedIn](http://linkedin.com/in/candidogfbmiranda)
+* Check my HTB Profile: [HTB Profile Link](https://profile.hackthebox.com/profile/019c9caf-e4ff-7056-8b7a-15ceb8cd644b)
+
+*"Try Harder, Analyze Deeper."*
